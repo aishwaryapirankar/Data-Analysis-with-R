@@ -20,5 +20,7 @@ We have a Taylor Swift song for every mood, but these are the songs with highest
 
 Here's a data visualization of valence across her work
 
+<img width="1118" alt="Screenshot 2021-11-29 at 11 46 38 AM" src="https://user-images.githubusercontent.com/43775233/143818040-281d4d91-4fe1-46c5-9e23-7ecb3c78fc91.png">
+
 <img width="1792" alt="Screenshot 2021-11-26 at 12 15 15 AM" src="https://user-images.githubusercontent.com/43775233/143816939-4493104b-015c-4b29-812e-4b62c5d198c0.png">
 
