@@ -2,7 +2,7 @@
 
 We are doing data analysis of **Taylor Swift** (born in _1989_)'s music as she is my favorite artist. Currently, she is re-recording her first five albums for owning her masters is truly inspiring and a story that needs to be shared for _evermore_. She has a great _reputation_ for her _fearless_ songwriting and mind blowing performances across many genres. 
 
-This is my first Data Analysis project with R. I wanted to learn about the most useful packages for data analysis. I referred to the documentation of packages like spotifyr, tidyverse, knitr and ggridges.
+This is my first Data Analysis project with R. I wanted to learn about the most useful packages for data analysis. I referred to the documentation and few videos along with articles for packages like spotifyr, tidyverse, knitr and ggridges.
 
 <img width="1056" alt="Screenshot 2021-11-29 at 11 41 29 AM" src="https://user-images.githubusercontent.com/43775233/143817488-2e063b7d-056b-4193-be6a-81adff19f193.png">
 
